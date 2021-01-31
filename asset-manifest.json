@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolioreact/static/css/main.b09898df.chunk.css",
+    "main.js": "/portfolioreact/static/js/main.2bfd3e4b.chunk.js",
+    "main.js.map": "/portfolioreact/static/js/main.2bfd3e4b.chunk.js.map",
+    "runtime-main.js": "/portfolioreact/static/js/runtime-main.80a1609b.js",
+    "runtime-main.js.map": "/portfolioreact/static/js/runtime-main.80a1609b.js.map",
+    "static/js/2.13680e92.chunk.js": "/portfolioreact/static/js/2.13680e92.chunk.js",
+    "static/js/2.13680e92.chunk.js.map": "/portfolioreact/static/js/2.13680e92.chunk.js.map",
+    "static/js/3.d371ebfa.chunk.js": "/portfolioreact/static/js/3.d371ebfa.chunk.js",
+    "static/js/3.d371ebfa.chunk.js.map": "/portfolioreact/static/js/3.d371ebfa.chunk.js.map",
+    "index.html": "/portfolioreact/index.html",
+    "static/css/main.b09898df.chunk.css.map": "/portfolioreact/static/css/main.b09898df.chunk.css.map",
+    "static/js/2.13680e92.chunk.js.LICENSE.txt": "/portfolioreact/static/js/2.13680e92.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/portfolioreact/static/media/0.8dd8968d.jpg",
+    "static/media/1.jpg": "/portfolioreact/static/media/1.4e08ea59.jpg",
+    "static/media/2.jpg": "/portfolioreact/static/media/2.89929e3f.jpg",
+    "static/media/3.jpg": "/portfolioreact/static/media/3.c4440e50.jpg",
+    "static/media/4.jpg": "/portfolioreact/static/media/4.605c09d6.jpg",
+    "static/media/5.jpg": "/portfolioreact/static/media/5.c711c149.jpg",
+    "static/media/Heather-Everton-Resume.cdb60e9a.pdf": "/portfolioreact/static/media/Heather-Everton-Resume.cdb60e9a.pdf",
+    "static/media/cover-image.1a27d368.jpg": "/portfolioreact/static/media/cover-image.1a27d368.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80a1609b.js",
+    "static/js/2.13680e92.chunk.js",
+    "static/css/main.b09898df.chunk.css",
+    "static/js/main.2bfd3e4b.chunk.js"
+  ]
+}
